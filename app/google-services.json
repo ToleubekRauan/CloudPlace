@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "101199181424",
+    "firebase_url": "https://cloudplace-28551.firebaseio.com",
+    "project_id": "cloudplace-28551",
+    "storage_bucket": "cloudplace-28551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101199181424:android:2cf2907a2120f6f8",
+        "android_client_info": {
+          "package_name": "com.example.rauan.cloudplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101199181424-ebsha132eu4ss4uks97jgan2slmr7mku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbiq0qHWMD0B84wOx82VHvxXbsH_6jok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
